@@ -7,6 +7,8 @@
 ## - Common dependencies and tools for all targets (including: Ninja build system, Qt Creator, pyulog)
 ## - jMAVSim simulator dependencies
 
+sudo usermod -a -G dialout $USER
+
 # Preventing sudo timeout https://serverfault.com/a/833888
 trap "exit" INT TERM; trap "kill 0" EXIT; sudo -v || exit $?; sleep 1; while true; do sleep 60; sudo -nv; done 2>/dev/null &
 
