@@ -1,3 +1,6 @@
+# This setup is now deprecated
+Follow the instructions in [UAV Toolbox support package for PX4 Autopilots](https://www.mathworks.com/help/uav/px4-spkg.html) to find the latest documentation on the PX4 integration with MATLAB & Simulink
+
 # PX4-Setup
 Toolchain setup of Embedded Coder support package for PX4 Autopilots
 ## Introduction
