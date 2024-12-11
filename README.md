@@ -10,8 +10,5 @@ Using  [Embedded Coder support package for PX4 Autopilots](https://www.mathworks
 PX4 toolchain setup includes the installation of different third-party utilities like GCC 7.2.1, CMake 3.x, Ninja 1.6, Git, RTPS and certain Python packages, which are required for building the PX4 Firmware. 
             
 The shell scripts are modified versions of the [PX4 Devguide](https://github.com/PX4/Devguide/tree/master/build_scripts), to suit the Embedded Coder support package for PX4 Autopilots.
-Refer the following links for instructions on how to use the shell scripts.
-1. [For Windows 10](https://www.mathworks.com/help/supportpkg/px4/ug/setting-px4-toolchain-windows.html)
-2. [For Linux](https://www.mathworks.com/help/releases/R2020a/supportpkg/px4/ug/setting-px4-toolchain-linux.html)
 
-*PS: The links to above MathWorks documentation will be live by 3rd week of March 2019.*
+
